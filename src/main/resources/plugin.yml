@@ -1,0 +1,15 @@
+name: SweepPaper
+version: 26.2.0
+main: net.sweepsmp.sweeppaper.SweepPaper
+api-version: '26.2'
+author: SweepSMP
+description: SweepPaper feature suite for Paper 26.2
+commands:
+  sweep:
+    description: SweepPaper status and utilities
+    usage: /sweep [status|reload]
+    permission: sweeppaper.admin
+permissions:
+  sweeppaper.admin:
+    default: op
+    
