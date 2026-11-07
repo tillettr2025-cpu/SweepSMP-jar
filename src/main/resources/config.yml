@@ -1,0 +1,13 @@
+branding:
+  motd-prefix: "&a&lSweepPaper &7»"
+monitor:
+  enabled: true
+  interval-seconds: 60
+guard:
+  block-command-blocks: false
+  block-elytra: false
+performance:
+  warn-tick-ms: 75
+chunks:
+  max-loads-per-minute: 120
+  
