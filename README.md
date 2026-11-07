@@ -27,8 +27,8 @@ Output: `build/libs/SweepPaper-26.2.0.jar`
 ## Install
 1. Back up the server.
 2. Keep the official Paper 26.2 server JAR as the server executable.
-3. Put the built SweepPaper plugin JAR in `plugins/`.
-4. Start once, review logs, then adjust `plugins/SweepPaper/config.yml`.
+3. Put the built SweepPaper plugin JAR in `main`.
+4. Start once, review logs, then enjoy
 
 ## Compatibility
 Target: Paper API `26.2.build.129-stable`, Java 25.
